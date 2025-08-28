@@ -1,6 +1,8 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
-
+```
+NAME : TH KARTHIK KRISHNA 
+REG NO : 212223240067
+```
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
